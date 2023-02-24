@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+.opening-hr {
+    border-bottom: 2px solid black;
+}
+
+.opening-hr-vertical {
+    height: 30px;
+    width: 2px;
+    border-left: 2px solid black;
+}
+
+.open-hour-bg {
+    /* background: linear-gradient(rgb(255 255 255 / 78%), rgb(255 255 255 / 78%)), no-repeat url(../img/slides//openhour-bg.jpg) center center/cover; */
+    background-color: #eee;
+    height: auto;
+}
+
+.dashed-border {
+    border: 2px dashed black;
+}
+
+.open-hour-head {
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: 5px;
+    color: #fe6601;
+    font-size: 44px;
+}
+
+.closed {
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: 1px;
+    color: #fe6601;
+    text-align: center;
+}
